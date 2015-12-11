@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Acumen</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="image_cd_camera">Imagem camera</string>
+    <string name="title_activity_login">Acumen - Login</string>
+    <string name="userNameHint"> Nome do usuário</string>
+    <string name="passwordHint"> Senha</string>
+    <string name="btnEnviarRecibo"> Enviar Recibo</string>
+    <string name="centro_custos"> Centro de Custo</string>
+    <string name="categoria">Categoria</string>
+    <string name="valor">Valor Recibo</string>
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    
+
+</resources>
