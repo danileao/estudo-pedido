@@ -1,0 +1,24 @@
+@CHARSET "UTF-8";
+
+.recibo-img{
+	width: 450px;
+	height: 50%;
+}
+
+.recibo-div{
+	padding: 5px;
+	display: table;
+}
+
+.recibo-opt{
+	padding: 15px;
+	float:left;
+	border: 1px solid #eee;
+	margin: 1px;
+	min-height: 100%;
+}
+
+label{
+	font-family: Verdana;
+	padding: 1px;
+}
