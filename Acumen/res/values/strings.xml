@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Acumen</string>
+    <string name="hello_world">Camera</string>
+    <string name="action_settings">Settings</string>
+    <string name="b">LoginActivity</string>
+    <string name="title_activity_camera">Camera App</string>
+    <string name="button_camera">Camera</string>
+    <string name="image_cd_camera">This is a generic content description</string>
+    <string name="btnIniciar">Login</string>
+    <string name="title_activity_menu">MenuActivity</string>
+
+</resources>
